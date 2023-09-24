@@ -1,0 +1,86 @@
+@media all and (max-width: 1026px) {
+
+.nav-icons {
+display: none;
+}
+
+.nav-header ul{
+display: none;
+}
+
+.menu-button {
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 64px;
+}
+
+.header-section {
+}
+
+.lesson-sale {
+  top: 664px;
+  width: 864px;
+  left: 80px;
+}
+
+.sale-infos {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.new-stopper {
+  width: 260px;
+  height: 3px;
+  background-color: #AB0433;
+  margin: 224px auto 8px;
+}
+
+.items-container {
+  flex-wrap: wrap;
+}
+
+.article-info {
+  background: #252525;
+  padding: 32px;
+  border-radius: 0 0 10px 10px;
+  width: 431px;
+}
+
+.card-container .article-card img {
+  width: 431px;
+  height: 487px;
+}
+
+.card-container-little .article-card img {
+  width: 431px;
+  height: 487px;
+}
+
+.card-container-little {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+.little-article-info {
+  width: 431px;
+}
+
+.popular-products_section {
+  padding-right: 0;
+  padding-bottom: 80px;
+}
+
+.new-products_section .items-container .item-wrapper:nth-child(4) {
+  display: inline-block;
+}
+
+.popular-products_section .items-container .item-wrapper:nth-child(4) {
+  display: inline-block;
+}
+
+.card-container-little .article-card:nth-child(1) {
+  display: none;
+}
+
+}
