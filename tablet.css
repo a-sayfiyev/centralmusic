@@ -15,8 +15,8 @@ display: none;
 }
 
 .header-section {
-  background-size: 140%;
-  background-position: center;
+  background-size: 190%;
+  background-position: top;
 }
 
 .header-section h1:nth-child(2) {
@@ -36,9 +36,6 @@ display: none;
 
 .new-stopper {
   width: 260px;
-  height: 3px;
-  background-color: #AB0433;
-  margin: 224px auto 8px;
 }
 
 .items-container {

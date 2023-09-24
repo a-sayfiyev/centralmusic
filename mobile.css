@@ -1,0 +1,151 @@
+@media all and (max-width:376px) {
+
+  header {
+    padding-top: 58px;
+    margin-left: 24px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .header-section {
+    background-size: 280%;
+    background-position: top;
+  }
+
+  .nav-header a img {
+    width: 153px;
+    height: 24px;
+  }
+  .menu-button {
+    margin-right: 24px;
+    width: 24px;
+    height: 24px;
+  }
+
+  .header-section h1:nth-child(2) {
+    width: 311px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 120%;
+    margin: 130px auto 0;
+    text-align: center;
+  }
+
+  .lesson-sale {
+    top: 470px;
+    width: 328px;
+    height: 168px;
+    left: 24px;
+  }
+
+  .lesson-sale h1 {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 120%;
+    margin-bottom: 4px;
+  }
+
+  .lesson-sale p {
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 149%;
+  }
+
+  .sale-infos {
+    padding: 32px;
+  }
+
+  .learn-more {
+    padding: 8px 16px;
+    margin-top: 16px;
+  }
+
+  .new-stopper {
+    width: 80px;
+  }
+
+  .new-products_section {
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+
+  .popular-products_section {
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+
+  .items-container {
+    width: 328px;
+  }
+
+  .item-wrapper {
+    width: 328px;
+  }
+
+  .product-info_wrapper {
+    width: 328px;
+  }
+
+  .product-bg {
+    width: 328px;
+  }
+
+  .product-bg img {
+    left: 10px;
+  }
+
+  .card-container {
+    flex-wrap: wrap;
+  }
+
+  .card-container .article-card img {
+    width: 327px;
+    height: 311px;
+  }
+
+  .card-container-little .article-card img {
+    width: 327px;
+    height: 311px;
+  }
+
+  .little-article-info {
+    width: 327px;
+  }
+
+  .article-info {
+    width: 327px;
+  }
+
+.footer-container {
+  flex-direction: column;
+}
+
+  .nav-logo-container a img {
+        display: none;
+  }
+
+.footer-navbar .popular-stopper {
+  margin: 0 auto;
+}
+
+.footer-navbar .next-stopper {
+  display: none;
+}
+
+.footer-navbar {
+  text-align: center;
+}
+
+.footer-navbar:nth-child(2) {
+  display: none;
+}
+
+.nav-logos {
+  display: flex;
+  margin-top: 27px;
+  align-items: center;
+  gap: 12px;
+  display: inline-block;
+  margin-left: 15px;
+}
+}
